@@ -16,10 +16,14 @@
 
 
 
-  Incident Response Playbook Development
 
-📝 Description: Created detailed playbooks for common cyber incidents including phishing, malware, and privilege misuse. Standardized procedures for detection, containment, eradication, and recovery phases.
+Incident Response Playbook Development
 
-🛠 Tools & Technologies: MITRE D3FEND, Notion, Markdown
+**📝 Description:** Created playbooks for common incidents like phishing and malware using MITRE D3FEND framework.
 
-✅ Skills Demonstrated: Incident Response, Playbook Writing, SOC Process Standardization
+**🛠 Tools & Technologies:** MITRE D3FEND, Notion, Markdown
+
+**✅ Skills Demonstrated:** Incident Response, Documentation, SOC Processes
+
+**📎 GitHub Repository:** https://github.com/idrisakanni/incident-response-playbook-development
+
