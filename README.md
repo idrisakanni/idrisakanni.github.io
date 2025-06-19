@@ -1,6 +1,6 @@
 # idrisakanni.github.io
 
-SIEM Log Analysis and Threat Detection
+  SIEM Log Analysis and Threat Detection
 
 **📝 Description:** Developed detection rules in Splunk and Azure Sentinel to identify brute-force attacks and privilege escalation attempts.
 
@@ -9,3 +9,17 @@ SIEM Log Analysis and Threat Detection
 **✅ Skills Demonstrated:** SIEM, Threat Detection, Log Analysis
 
 **📎 GitHub Repository:** https://github.com/idrisakanni.github.io/siem-log-analysis-and-threat-detection
+
+
+
+
+
+
+
+  Incident Response Playbook Development
+
+📝 Description: Created detailed playbooks for common cyber incidents including phishing, malware, and privilege misuse. Standardized procedures for detection, containment, eradication, and recovery phases.
+
+🛠 Tools & Technologies: MITRE D3FEND, Notion, Markdown
+
+✅ Skills Demonstrated: Incident Response, Playbook Writing, SOC Process Standardization
